@@ -1,0 +1,18 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "Ecommerce api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bhanu Dixit",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^7.3.1",
+    "nodemon": "^2.0.22",
+    "routes": "^2.1.0"
+  }
+}
